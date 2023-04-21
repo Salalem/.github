@@ -1,7 +1,5 @@
 # Salalem Learning
 
-![Salalem Learning Logo](https://salalem.com/learn/_next/image?url=https%3A%2F%2Fsalalemacademy.s3.eu-west-1.amazonaws.com%2Fimages%2F1658220112847-lg.png&w=128&q=75)
-
 Salalem Learning is an edtech company focused on providing corporates with the platform, content, and tools to make learning and development (L&D) easier. We leverage the power of advanced technology and AI to deliver a seamless, personalized learning experience for our clients.
 
 ## Features
